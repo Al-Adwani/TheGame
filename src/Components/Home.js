@@ -14,7 +14,7 @@ function Home() {
         <h5>
           To one of my closest <strong>"friends"</strong> he lives in the
           tallest skyscraper in the City and he works for our top competetors,
-          but I don't know which floor his apartment is.
+          but I don't know which floor his apartment is, you have to guess it.
         </h5>
       </h4>
       <p>One of the features of being a great Mailman is to be super lucky</p>
